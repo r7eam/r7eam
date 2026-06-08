@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rheem</h1>
 <h3 align="center">Cybersecurity Engineering Student | Full-Stack Developer in Training | CTF Player</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
+- 🌱 **Full Stack Web Developer**
 
 - 📫 How to reach me **aabdalrheem5@gmail.com**
 
