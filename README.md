@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rheem</h1>
-<h3 align="center">Cybersecurity Engineering Student | Full-Stack Developer in Training | CTF Player</h3>
+<h3 align="center">Cybersecurity Engineering Student | Full-Stack Developer | CTF Player</h3>
 
 - 🌱 **Full Stack Web Developer**
 
