@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hackerone.com/r7eam"><img src="https://img.shields.io/badge/HackerOne-@r7eam-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" /></a>
+  <a href="https://hackerone.com/r7eem"><img src="https://img.shields.io/badge/HackerOne-@r7eem-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" /></a>
   <a href="https://linkedin.com/in/r7eam"><img src="https://img.shields.io/badge/LinkedIn-r7eam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aabdalrheem5@gmail.com"><img src="https://img.shields.io/badge/Email-aabdalrheem5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://x.com/r7eem_17"><img src="https://img.shields.io/badge/X-@r7eem__17-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -30,7 +30,7 @@ role:       Cybersecurity Engineer & Independent Vulnerability Researcher
 degree:     B.Eng. Cybersecurity — Northern Technical University (2026)
 based_in:   Iraq 🇮🇶
 focus:      [vulnerability research, source code review, detection engineering, full-stack]
-hunting_on: HackerOne (@r7eam)
+hunting_on: HackerOne (@r7eem)
 languages:  { arabic: native, english: intermediate }
 motto:      "To defend a system, first learn how to break it."
 ```
